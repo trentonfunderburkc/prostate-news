@@ -1,0 +1,5 @@
+[
+  { "name": "Вестник урологии", "url": "https://www.urovest.ru/jour/gateway/plugin/WebFeedGatewayPlugin/rss2", "category": "Урология", "filter": true, "strict": false, "allowNoDate": true },
+  { "name": "АиФ — Здоровье", "url": "https://aif.ru/rss/health.php", "category": "Мужское здоровье", "filter": true, "strict": true },
+  { "name": "MedAboutMe", "url": "https://medaboutme.ru/rss/", "category": "Советы врачей", "filter": true, "strict": true, "brokenXml": true }
+]

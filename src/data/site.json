@@ -1,0 +1,39 @@
+{
+  "name": "УроЗдоровье",
+  "tagline": "Простатит, урология и мужское здоровье",
+  "description": "Статьи о простатите, аденоме простаты, урологии, профилактике и лечении для мужчин",
+  "domain": "urozdorovie.local",
+  "siteUrl": "https://urozdorovie.local",
+  "publisher": {
+    "legalName": "Общество с ограниченной ответственностью «Уро Медиа»",
+    "shortName": "ООО «Уро Медиа»",
+    "inn": "7714892642",
+    "kpp": "771401001",
+    "ogrn": "1187746538938",
+    "ogrnDate": "22 августа 2018 г.",
+    "address": "127015, г. Москва, ул. Новодмитровская, д. 2, корп. 1, офис 419",
+    "postalAddress": "127015, г. Москва, а/я 52",
+    "email": "redakcia@urozdorovie.local",
+    "adsEmail": "ads@urozdorovie.local",
+    "pressEmail": "press@urozdorovie.local",
+    "privacyEmail": "privacy@urozdorovie.local",
+    "phone": "+7 (495) 632-48-20",
+    "phoneExtra": "+7 (495) 632-48-21",
+    "editorInChief": "Семёнов Игорь Владимирович",
+    "deputyEditor": "Кравцова Марина Петровна",
+    "workHours": "Пн–Пт, 10:00–19:00 (МСК)",
+    "bankDetails": "Р/с 40702810438000123467 в ПАО «Сбербанк», БИК 044525225, к/с 30101810400000000225"
+  },
+  "categories": [
+    { "name": "Простатит и аденома", "slug": "prostatit-i-adenoma" },
+    { "name": "Урология", "slug": "urologiya" },
+    { "name": "Мужское здоровье", "slug": "muzhskoe-zdorovie" },
+    { "name": "Лечение и профилактика", "slug": "lechenie-i-profilaktika" },
+    { "name": "Советы врачей", "slug": "sovety-vrachey" }
+  ],
+  "social": {
+    "telegram": "https://t.me/urozdorovie_media",
+    "vk": "https://vk.com/urozdorovie_media",
+    "dzen": "https://dzen.ru/urozdorovie_media"
+  }
+}
