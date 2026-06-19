@@ -208,6 +208,24 @@ const FALLBACK_TOPICS = [
   { title: 'Хроническая тазовая боль у мужчин: как отличить от простатита', category: 'Урология', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
   { title: 'Питание при простатите: что включить и что исключить из рациона', category: 'Советы врачей', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
   { title: 'Острый простатит: первые признаки и неотложная помощь', category: 'Простатит и аденома', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
+  { title: 'Калькулезный простатит: что это и как лечат камни в простате', category: 'Простатит и аденома', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
+  { title: 'Недержание мочи после операции на простате: что считается нормой', category: 'Урология', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
+  { title: 'Антибиотики при простатите: как правильно проходить курс лечения', category: 'Лечение и профилактика', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
+  { title: 'Физическая активность при простатите: что полезно, а что вредно', category: 'Советы врачей', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
+  { title: 'Алкоголь и простатит: влияет ли на обострения', category: 'Советы врачей', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
+  { title: 'Сексуальная активность при хроническом простатите: рекомендации урологов', category: 'Мужское здоровье', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
+  { title: 'МРТ простаты: когда назначают и что показывает исследование', category: 'Лечение и профилактика', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
+  { title: 'Трансректальное УЗИ простаты: как подготовиться к процедуре', category: 'Лечение и профилактика', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
+  { title: 'Гормональные изменения у мужчин после 50 и здоровье простаты', category: 'Мужское здоровье', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
+  { title: 'Простатит у молодых мужчин: почему болеют в 25–35 лет', category: 'Простатит и аденома', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
+  { title: 'Хронический простатит и бесплодие: есть ли связь', category: 'Мужское здоровье', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
+  { title: 'Народные средства от простатита: что говорит официальная медицина', category: 'Советы врачей', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
+  { title: 'Когда аденому простаты лечат без операции', category: 'Простатит и аденома', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
+  { title: 'Лазерная vaporization простаты: плюсы и минусы метода', category: 'Лечение и профилактика', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
+  { title: 'Цинк и селен для здоровья простаты: нужны ли добавки', category: 'Советы врачей', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
+  { title: 'Как подготовиться к первому визиту к урологу', category: 'Советы врачей', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
+  { title: 'Обострение простатита зимой: почему случается и как снизить риск', category: 'Простатит и аденома', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
+  { title: 'Бактериальный и абактериальный простатит: в чём разница', category: 'Простатит и аденома', source_name: 'УроЗдоровье', source_url: 'https://urozdorovie.local/' },
 ];
 
 function slugify(text) {
@@ -752,14 +770,12 @@ ${safeBody}${sourceBlock}
 }
 
 function generateFallbackBody(topic) {
-  const bodies = {
-    'Рецепты': `Предлагаем простой домашний рецепт из доступных ингредиентов. Блюдо готовится за разумное время и подходит для семейного ужина. Пошагово опишите подготовку продуктов, основные этапы и подачу.`,
-    'Выпечка и десерты': `Домашняя выпечка — отличный вариант для чаепития. В рецепте указаны пропорции муки, яиц и сахара, а также время выпекания в духовке.`,
-    'Супы и салаты': `Лёгкий и сытный вариант для обеда. Суп или салат готовится из сезонных продуктов, сохраняя вкус и пользу овощей.`,
-    'Советы': `Полезные кулинарные советы помогут избежать типичных ошибок на кухне. Расскажите, как выбрать продукты, хранить заготовки и упростить готовку.`,
-    'Продукты и сезон': `Сезонные продукты сейчас в продаже по хорошей цене. Расскажите, как выбрать спелые ягоды или овощи и во что их лучше превратить на кухне.`,
-  };
-  return bodies[topic.category] || bodies['Рецепты'];
+  return (
+    `Тема: ${topic.title}. ` +
+    'Опишите симптомы, диагностику, лечение и профилактику. ' +
+    'Укажите, когда нужно обратиться к урологу. ' +
+    'Материал информационный и не заменяет консультацию врача.'
+  );
 }
 
 async function main() {
@@ -911,11 +927,17 @@ async function main() {
   }
 
   if (ALLOW_FALLBACK) {
+    const usedTitles = new Set(
+      [...existingSlugs].map((s) => s.replace(/-\d+$/, '')),
+    );
     let fallbackIndex = 0;
-    while (count < stopAt) {
-      const topic = FALLBACK_TOPICS[fallbackIndex % FALLBACK_TOPICS.length];
+    for (const topic of FALLBACK_TOPICS) {
+      if (count >= stopAt) break;
+      const baseSlug = slugify(topic.title);
+      if (usedTitles.has(baseSlug)) continue;
+
       fallbackIndex++;
-      const uniqueUrl = `${topic.source_url}?generated=${fallbackIndex}`;
+      const uniqueUrl = `${topic.source_url}?topic=${encodeURIComponent(baseSlug)}`;
       if (existingUrls.has(uniqueUrl)) continue;
 
       try {
@@ -924,7 +946,7 @@ async function main() {
 
         await saveArticle(
           {
-            title: `${topic.title} (${fallbackIndex})`,
+            title: topic.title,
             body: fullBody,
             date: new Date().toISOString(),
             category: topic.category,
@@ -937,9 +959,10 @@ async function main() {
           existingSlugs
         );
 
+        usedTitles.add(baseSlug);
         existingUrls.add(uniqueUrl);
         count++;
-        console.log(`  [Fallback] сгенерирована статья ${count - initialCount}/${stopAt - initialCount}`);
+        console.log(`  [Fallback] ${topic.title.slice(0, 60)}… (${count - initialCount}/${stopAt - initialCount})`);
       } catch (err) {
         itemErrors++;
         console.warn(`  ✗ Fallback ошибка: ${err.message}`);
