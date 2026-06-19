@@ -5,8 +5,8 @@ authorId: 4
 date: 2026-06-19T00:00:00.000Z
 category: Простатит и аденома
 source_url: >-
-  https://urozdorovie.local/?topic=profilaktika-prostatita-prostye-privychki-dlya-muzhskogo-zdorov-ya
-source_name: УроЗдоровье
+  https://prostanews.space/?topic=profilaktika-prostatita-prostye-privychki-dlya-muzhskogo-zdorov-ya
+source_name: ПростаНьюс
 original_author: null
 image: >-
   /images/stories/profilaktika-prostatita-prostye-privychki-dlya-muzhskogo-zdorov-ya.jpg
@@ -21,7 +21,7 @@ comments:
   - name: Николай Б.
     text: 'Полезная статья, сохранил, покажу урологу на приёме.'
     date: '2026-05-31'
-help_link: 'https://urozdorovie.local/'
+help_link: 'https://prostanews.space/'
 ---
 
 Простатит — одно из самых распространенных урологических заболеваний у мужчин, особенно после 40–50 лет. Однако снизить риск его развития можно с помощью простых, но эффективных привычек. В основе профилактики лежит устранение факторов, провоцирующих застой крови в малом тазу и воспаление предстательной железы. Ключевые меры включают регулярную физическую активность, сбалансированное питание, контроль веса и избегание длительного сидения. Симптомы простатита часто начинаются с дискомфорта внизу живота или промежности, учащенного мочеиспускания, слабой струи мочи, а также боли при эякуляции или дефекации. Иногда наблюдаются общие признаки — слабость, повышение температуры тела до 37–38°C. Если вы заметили хотя бы один из этих симптомов, откладывать визит к урологу не стоит.
@@ -32,4 +32,4 @@ help_link: 'https://urozdorovie.local/'
 
 ---
 
-*Материал подготовлен на основе публикации [УроЗдоровье](https://urozdorovie.local/?topic=profilaktika-prostatita-prostye-privychki-dlya-muzhskogo-zdorov-ya). Ознакомиться с полной версией можно по [ссылке](https://urozdorovie.local/?topic=profilaktika-prostatita-prostye-privychki-dlya-muzhskogo-zdorov-ya).*
+*Материал подготовлен на основе публикации [ПростаНьюс](https://prostanews.space/?topic=profilaktika-prostatita-prostye-privychki-dlya-muzhskogo-zdorov-ya). Ознакомиться с полной версией можно по [ссылке](https://prostanews.space/?topic=profilaktika-prostatita-prostye-privychki-dlya-muzhskogo-zdorov-ya).*

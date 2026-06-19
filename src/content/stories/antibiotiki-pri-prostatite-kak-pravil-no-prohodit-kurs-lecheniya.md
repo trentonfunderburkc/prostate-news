@@ -5,8 +5,8 @@ authorId: 6
 date: 2026-06-19T00:00:00.000Z
 category: Простатит и аденома
 source_url: >-
-  https://urozdorovie.local/?topic=antibiotiki-pri-prostatite-kak-pravil-no-prohodit-kurs-lecheniya
-source_name: УроЗдоровье
+  https://prostanews.space/?topic=antibiotiki-pri-prostatite-kak-pravil-no-prohodit-kurs-lecheniya
+source_name: ПростаНьюс
 original_author: null
 image: >-
   /images/stories/antibiotiki-pri-prostatite-kak-pravil-no-prohodit-kurs-lecheniya.jpg
@@ -21,7 +21,7 @@ comments:
   - name: Николай Б.
     text: Пойду читать оригинал на источнике — хочу уточнить детали.
     date: '2026-06-02'
-help_link: 'https://urozdorovie.local/'
+help_link: 'https://prostanews.space/'
 ---
 
 Простатит — одно из самых распространенных урологических заболеваний у мужчин, и одной из основных причин его бактериальной формы становятся инфекции, передающиеся половым путем или восходящие из мочевыводящих путей. Симптомы бактериального простатита часто выражены ярко: это боль и жжение при мочеиспускании, частые позывы в туалет, особенно ночью, боли в промежности, внизу живота или пояснице, а также повышение температуры тела, озноб и общая слабость. В некоторых случаях, при хроническом течении, признаки могут быть стертыми, но дискомфорт сохраняется постоянно. Если вы заметили хотя бы два из этих симптомов, особенно на фоне лихорадки, визит к урологу должен быть безотлагательным — запоздалое лечение грозит переходом в хроническую форму, абсцессом предстательной железы или проблемами с фертильностью.
@@ -32,4 +32,4 @@ help_link: 'https://urozdorovie.local/'
 
 ---
 
-*Материал подготовлен на основе публикации [УроЗдоровье](https://urozdorovie.local/?topic=antibiotiki-pri-prostatite-kak-pravil-no-prohodit-kurs-lecheniya). Ознакомиться с полной версией можно по [ссылке](https://urozdorovie.local/?topic=antibiotiki-pri-prostatite-kak-pravil-no-prohodit-kurs-lecheniya).*
+*Материал подготовлен на основе публикации [ПростаНьюс](https://prostanews.space/?topic=antibiotiki-pri-prostatite-kak-pravil-no-prohodit-kurs-lecheniya). Ознакомиться с полной версией можно по [ссылке](https://prostanews.space/?topic=antibiotiki-pri-prostatite-kak-pravil-no-prohodit-kurs-lecheniya).*

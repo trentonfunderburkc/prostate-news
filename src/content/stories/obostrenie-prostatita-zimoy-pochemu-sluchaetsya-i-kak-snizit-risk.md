@@ -5,8 +5,8 @@ authorId: 6
 date: 2026-06-19T00:00:00.000Z
 category: Простатит и аденома
 source_url: >-
-  https://urozdorovie.local/?topic=obostrenie-prostatita-zimoy-pochemu-sluchaetsya-i-kak-snizit-risk
-source_name: УроЗдоровье
+  https://prostanews.space/?topic=obostrenie-prostatita-zimoy-pochemu-sluchaetsya-i-kak-snizit-risk
+source_name: ПростаНьюс
 original_author: null
 image: >-
   /images/stories/obostrenie-prostatita-zimoy-pochemu-sluchaetsya-i-kak-snizit-risk.jpg
@@ -24,7 +24,7 @@ comments:
   - name: Сергей Д.
     text: 'Хороший пересказ, всё по существу и без воды.'
     date: '2026-06-05'
-help_link: 'https://urozdorovie.local/'
+help_link: 'https://prostanews.space/'
 ---
 
 С наступлением холодов многие мужчины с хроническим простатитом сталкиваются с сезонным обострением симптомов. Это связано с тем, что низкие температуры приводят к спазму сосудов и замедлению кровообращения, особенно в органах малого таза. Застой крови в предстательной железе и ослабление местного иммунитета создают благоприятную среду для активации воспалительного процесса. Также часто играют роль переохлаждение ног или поясницы, снижение общей физической активности и употребление большего количества жирной или острой пищи в праздничные дни.
@@ -37,4 +37,4 @@ help_link: 'https://urozdorovie.local/'
 
 ---
 
-*Материал подготовлен на основе публикации [УроЗдоровье](https://urozdorovie.local/?topic=obostrenie-prostatita-zimoy-pochemu-sluchaetsya-i-kak-snizit-risk). Ознакомиться с полной версией можно по [ссылке](https://urozdorovie.local/?topic=obostrenie-prostatita-zimoy-pochemu-sluchaetsya-i-kak-snizit-risk).*
+*Материал подготовлен на основе публикации [ПростаНьюс](https://prostanews.space/?topic=obostrenie-prostatita-zimoy-pochemu-sluchaetsya-i-kak-snizit-risk). Ознакомиться с полной версией можно по [ссылке](https://prostanews.space/?topic=obostrenie-prostatita-zimoy-pochemu-sluchaetsya-i-kak-snizit-risk).*

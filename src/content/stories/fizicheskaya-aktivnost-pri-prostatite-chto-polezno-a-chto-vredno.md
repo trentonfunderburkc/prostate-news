@@ -5,8 +5,8 @@ authorId: 7
 date: 2026-06-19T00:00:00.000Z
 category: Простатит и аденома
 source_url: >-
-  https://urozdorovie.local/?topic=fizicheskaya-aktivnost-pri-prostatite-chto-polezno-a-chto-vredno
-source_name: УроЗдоровье
+  https://prostanews.space/?topic=fizicheskaya-aktivnost-pri-prostatite-chto-polezno-a-chto-vredno
+source_name: ПростаНьюс
 original_author: null
 image: >-
   /images/stories/fizicheskaya-aktivnost-pri-prostatite-chto-polezno-a-chto-vredno.jpg
@@ -24,7 +24,7 @@ comments:
   - name: Максим В.
     text: 'Интересно про профилактику, многое не знал.'
     date: '2026-05-31'
-help_link: 'https://urozdorovie.local/'
+help_link: 'https://prostanews.space/'
 ---
 
 Физическая активность играет важную роль в поддержании мужского здоровья, особенно при таком распространённом заболевании, как простатит. Однако важно понимать, какие нагрузки приносят пользу, а какие могут усугубить воспалительный процесс в предстательной железе. Вопреки распространённому заблуждению, полный отказ от движения при простатите вреден — застой крови в малом тазу лишь усиливает симптомы и замедляет выздоровление. Полезными считаются умеренные аэробные нагрузки: ходьба, плавание, лёгкий бег трусцой, а также специальная лечебная гимнастика, например, упражнения Кегеля для укрепления мышц тазового дна. Такая активность улучшает микроциркуляцию, способствует оттоку секрета простаты и снижает болевые ощущения. Специалисты рекомендуют уделять занятиям 20–30 минут ежедневно, избегая переутомления.
@@ -35,4 +35,4 @@ help_link: 'https://urozdorovie.local/'
 
 ---
 
-*Материал подготовлен на основе публикации [УроЗдоровье](https://urozdorovie.local/?topic=fizicheskaya-aktivnost-pri-prostatite-chto-polezno-a-chto-vredno). Ознакомиться с полной версией можно по [ссылке](https://urozdorovie.local/?topic=fizicheskaya-aktivnost-pri-prostatite-chto-polezno-a-chto-vredno).*
+*Материал подготовлен на основе публикации [ПростаНьюс](https://prostanews.space/?topic=fizicheskaya-aktivnost-pri-prostatite-chto-polezno-a-chto-vredno). Ознакомиться с полной версией можно по [ссылке](https://prostanews.space/?topic=fizicheskaya-aktivnost-pri-prostatite-chto-polezno-a-chto-vredno).*

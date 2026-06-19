@@ -5,8 +5,8 @@ authorId: 9
 date: 2026-06-19T00:00:00.000Z
 category: Простатит и аденома
 source_url: >-
-  https://urozdorovie.local/?topic=hronicheskiy-prostatit-osnovnye-simptomy-i-kogda-obraschat-sya-k-urologu
-source_name: УроЗдоровье
+  https://prostanews.space/?topic=hronicheskiy-prostatit-osnovnye-simptomy-i-kogda-obraschat-sya-k-urologu
+source_name: ПростаНьюс
 original_author: null
 image: >-
   /images/stories/hronicheskiy-prostatit-osnovnye-simptomy-i-kogda-obraschat-sya-k-urologu.jpg
@@ -27,7 +27,7 @@ comments:
   - name: Денис Ш.
     text: Спасибо авторам за подборку материалов по мужскому здоровью.
     date: '2026-06-09'
-help_link: 'https://urozdorovie.local/'
+help_link: 'https://prostanews.space/'
 ---
 
 Хронический простатит — одно из самых распространенных заболеваний мочеполовой системы у мужчин, особенно в возрасте от 20 до 50 лет. По разным данным, с ним сталкиваются до 35% мужчин трудоспособного возраста. В отличие от острой формы, хронический простатит развивается постепенно, а его симптомы могут быть смазанными или периодически затихать, что часто заставляет пациентов откладывать визит к врачу. Между тем, отсутствие своевременной терапии может привести к осложнениям, включая проблемы с эрекцией, бесплодие и стриктуры уретры.
@@ -40,4 +40,4 @@ help_link: 'https://urozdorovie.local/'
 
 ---
 
-*Материал подготовлен на основе публикации [УроЗдоровье](https://urozdorovie.local/?topic=hronicheskiy-prostatit-osnovnye-simptomy-i-kogda-obraschat-sya-k-urologu). Ознакомиться с полной версией можно по [ссылке](https://urozdorovie.local/?topic=hronicheskiy-prostatit-osnovnye-simptomy-i-kogda-obraschat-sya-k-urologu).*
+*Материал подготовлен на основе публикации [ПростаНьюс](https://prostanews.space/?topic=hronicheskiy-prostatit-osnovnye-simptomy-i-kogda-obraschat-sya-k-urologu). Ознакомиться с полной версией можно по [ссылке](https://prostanews.space/?topic=hronicheskiy-prostatit-osnovnye-simptomy-i-kogda-obraschat-sya-k-urologu).*

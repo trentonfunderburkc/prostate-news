@@ -5,8 +5,8 @@ authorId: 2
 date: 2026-06-19T00:00:00.000Z
 category: Простатит и аденома
 source_url: >-
-  https://urozdorovie.local/?topic=transrektal-noe-uzi-prostaty-kak-podgotovit-sya-k-protsedure
-source_name: УроЗдоровье
+  https://prostanews.space/?topic=transrektal-noe-uzi-prostaty-kak-podgotovit-sya-k-protsedure
+source_name: ПростаНьюс
 original_author: null
 image: >-
   /images/stories/transrektal-noe-uzi-prostaty-kak-podgotovit-sya-k-protsedure.jpg
@@ -27,7 +27,7 @@ comments:
   - name: Сергей Д.
     text: Полезный материал для мужчин после 40.
     date: '2026-06-10'
-help_link: 'https://urozdorovie.local/'
+help_link: 'https://prostanews.space/'
 ---
 
 Трансректальное УЗИ простаты, или ТРУЗИ, — это один из наиболее точных методов диагностики предстательной железы. В отличие от обычного УЗИ через брюшную стенку, при ТРУЗИ датчик вводится в прямую кишку, что позволяет максимально приблизиться к простате и получить четкую картину ее структуры, размеров и состояния тканей. Процедура назначается при подозрении на простатит, аденому или рак простаты, а также для контроля эффективности лечения. Благодаря высокой точности, ТРУЗИ часто дополняет анализ крови на ПСА и пальцевое ректальное исследование, помогая врачу поставить верный диагноз.
@@ -40,4 +40,4 @@ help_link: 'https://urozdorovie.local/'
 
 ---
 
-*Материал подготовлен на основе публикации [УроЗдоровье](https://urozdorovie.local/?topic=transrektal-noe-uzi-prostaty-kak-podgotovit-sya-k-protsedure). Ознакомиться с полной версией можно по [ссылке](https://urozdorovie.local/?topic=transrektal-noe-uzi-prostaty-kak-podgotovit-sya-k-protsedure).*
+*Материал подготовлен на основе публикации [ПростаНьюс](https://prostanews.space/?topic=transrektal-noe-uzi-prostaty-kak-podgotovit-sya-k-protsedure). Ознакомиться с полной версией можно по [ссылке](https://prostanews.space/?topic=transrektal-noe-uzi-prostaty-kak-podgotovit-sya-k-protsedure).*

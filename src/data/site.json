@@ -1,9 +1,9 @@
 {
-  "name": "УроЗдоровье",
+  "name": "ПростаНьюс",
   "tagline": "Простатит, урология и мужское здоровье",
   "description": "Статьи о простатите, аденоме простаты, урологии, профилактике и лечении для мужчин",
-  "domain": "urozdorovie.local",
-  "siteUrl": "https://urozdorovie.local",
+  "domain": "prostanews.space",
+  "siteUrl": "https://prostanews.space",
   "publisher": {
     "legalName": "Общество с ограниченной ответственностью «Уро Медиа»",
     "shortName": "ООО «Уро Медиа»",
@@ -13,10 +13,10 @@
     "ogrnDate": "22 августа 2018 г.",
     "address": "127015, г. Москва, ул. Новодмитровская, д. 2, корп. 1, офис 419",
     "postalAddress": "127015, г. Москва, а/я 52",
-    "email": "redakcia@urozdorovie.local",
-    "adsEmail": "ads@urozdorovie.local",
-    "pressEmail": "press@urozdorovie.local",
-    "privacyEmail": "privacy@urozdorovie.local",
+    "email": "redakcia@prostanews.space",
+    "adsEmail": "ads@prostanews.space",
+    "pressEmail": "press@prostanews.space",
+    "privacyEmail": "privacy@prostanews.space",
     "phone": "+7 (495) 632-48-20",
     "phoneExtra": "+7 (495) 632-48-21",
     "editorInChief": "Семёнов Игорь Владимирович",
@@ -32,8 +32,8 @@
     { "name": "Советы врачей", "slug": "sovety-vrachey" }
   ],
   "social": {
-    "telegram": "https://t.me/urozdorovie_media",
-    "vk": "https://vk.com/urozdorovie_media",
-    "dzen": "https://dzen.ru/urozdorovie_media"
+    "telegram": "https://t.me/prostanews_media",
+    "vk": "https://vk.com/prostanews_media",
+    "dzen": "https://dzen.ru/prostanews_media"
   }
 }

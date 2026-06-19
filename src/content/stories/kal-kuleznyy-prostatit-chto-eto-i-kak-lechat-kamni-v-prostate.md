@@ -5,8 +5,8 @@ authorId: 4
 date: 2026-06-19T00:00:00.000Z
 category: Простатит и аденома
 source_url: >-
-  https://urozdorovie.local/?topic=kal-kuleznyy-prostatit-chto-eto-i-kak-lechat-kamni-v-prostate
-source_name: УроЗдоровье
+  https://prostanews.space/?topic=kal-kuleznyy-prostatit-chto-eto-i-kak-lechat-kamni-v-prostate
+source_name: ПростаНьюс
 original_author: null
 image: >-
   /images/stories/kal-kuleznyy-prostatit-chto-eto-i-kak-lechat-kamni-v-prostate.jpg
@@ -27,7 +27,7 @@ comments:
   - name: Алина К.
     text: Пойду читать оригинал на источнике — хочу уточнить детали.
     date: '2026-06-11'
-help_link: 'https://urozdorovie.local/'
+help_link: 'https://prostanews.space/'
 ---
 
 Калькулезный простатит — это одна из форм хронического воспаления предстательной железы, при которой в протоках или паренхиме органа образуются камни (конкременты, или простатолиты). По статистике, данная патология встречается у 8–10% мужчин старше 50 лет и достаточно часто протекает скрыто, без выраженных симптомов. Камни в простате могут быть первичными (формируются непосредственно в железе) или вторичными — в этом случае они попадают в простату из мочевого пузыря или мочеточников.
@@ -40,4 +40,4 @@ help_link: 'https://urozdorovie.local/'
 
 ---
 
-*Материал подготовлен на основе публикации [УроЗдоровье](https://urozdorovie.local/?topic=kal-kuleznyy-prostatit-chto-eto-i-kak-lechat-kamni-v-prostate). Ознакомиться с полной версией можно по [ссылке](https://urozdorovie.local/?topic=kal-kuleznyy-prostatit-chto-eto-i-kak-lechat-kamni-v-prostate).*
+*Материал подготовлен на основе публикации [ПростаНьюс](https://prostanews.space/?topic=kal-kuleznyy-prostatit-chto-eto-i-kak-lechat-kamni-v-prostate). Ознакомиться с полной версией можно по [ссылке](https://prostanews.space/?topic=kal-kuleznyy-prostatit-chto-eto-i-kak-lechat-kamni-v-prostate).*

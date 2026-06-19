@@ -5,8 +5,8 @@ authorId: 9
 date: 2026-06-19T00:00:00.000Z
 category: Простатит и аденома
 source_url: >-
-  https://urozdorovie.local/?topic=pitanie-pri-prostatite-chto-vklyuchit-i-chto-isklyuchit-iz-ratsiona
-source_name: УроЗдоровье
+  https://prostanews.space/?topic=pitanie-pri-prostatite-chto-vklyuchit-i-chto-isklyuchit-iz-ratsiona
+source_name: ПростаНьюс
 original_author: null
 image: >-
   /images/stories/pitanie-pri-prostatite-chto-vklyuchit-i-chto-isklyuchit-iz-ratsiona.jpg
@@ -27,7 +27,7 @@ comments:
   - name: Екатерина Р.
     text: Спасибо авторам за подборку материалов по мужскому здоровью.
     date: '2026-05-23'
-help_link: 'https://urozdorovie.local/'
+help_link: 'https://prostanews.space/'
 ---
 
 Правильно организованное питание играет важную роль в комплексной терапии простатита, помогая снизить воспаление и уменьшить дискомфорт. В основе рекомендаций лежит исключение продуктов, которые могут раздражать предстательную железу и усиливать застойные явления. В первую очередь из рациона следует убрать острые специи, маринады, копчености и жареные блюда. Также под запрет попадают алкоголь, кофеин и газированные напитки — они стимулируют кровообращение в малом тазу, что при обострении простатита может усугубить симптомы. Ограничение касается и продуктов с высоким содержанием соли, которая способствует отеку тканей.
@@ -40,4 +40,4 @@ help_link: 'https://urozdorovie.local/'
 
 ---
 
-*Материал подготовлен на основе публикации [УроЗдоровье](https://urozdorovie.local/?topic=pitanie-pri-prostatite-chto-vklyuchit-i-chto-isklyuchit-iz-ratsiona). Ознакомиться с полной версией можно по [ссылке](https://urozdorovie.local/?topic=pitanie-pri-prostatite-chto-vklyuchit-i-chto-isklyuchit-iz-ratsiona).*
+*Материал подготовлен на основе публикации [ПростаНьюс](https://prostanews.space/?topic=pitanie-pri-prostatite-chto-vklyuchit-i-chto-isklyuchit-iz-ratsiona). Ознакомиться с полной версией можно по [ссылке](https://prostanews.space/?topic=pitanie-pri-prostatite-chto-vklyuchit-i-chto-isklyuchit-iz-ratsiona).*

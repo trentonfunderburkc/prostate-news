@@ -5,8 +5,8 @@ authorId: 2
 date: 2026-06-19T00:00:00.000Z
 category: Простатит и аденома
 source_url: >-
-  https://urozdorovie.local/?topic=gormonal-nye-izmeneniya-u-muzhchin-posle-50-i-zdorov-e-prostaty
-source_name: УроЗдоровье
+  https://prostanews.space/?topic=gormonal-nye-izmeneniya-u-muzhchin-posle-50-i-zdorov-e-prostaty
+source_name: ПростаНьюс
 original_author: null
 image: >-
   /images/stories/gormonal-nye-izmeneniya-u-muzhchin-posle-50-i-zdorov-e-prostaty.jpg
@@ -21,7 +21,7 @@ comments:
   - name: Алина К.
     text: 'Читается легко, без лишнего запугивания.'
     date: '2026-05-27'
-help_link: 'https://urozdorovie.local/'
+help_link: 'https://prostanews.space/'
 ---
 
 С возрастом, особенно после 50 лет, в мужском организме происходят естественные гормональные перестройки. Центральную роль играет снижение уровня тестостерона, который в норме убывает примерно на 1–2% ежегодно. Параллельно с этим в ткани предстательной железы может накапливаться дигидротестостерон (ДГТ) — активная форма мужского гормона, способствующая разрастанию клеток простаты. Это создает предпосылки для развития доброкачественной гиперплазии предстательной железы (аденомы) и, в ряде случаев, повышает риски воспалительных процессов. Важно понимать: гормональные изменения протекают индивидуально, но их влияние на качество мочеиспускания и общее самочувствие сложно переоценить.
@@ -34,4 +34,4 @@ help_link: 'https://urozdorovie.local/'
 
 ---
 
-*Материал подготовлен на основе публикации [УроЗдоровье](https://urozdorovie.local/?topic=gormonal-nye-izmeneniya-u-muzhchin-posle-50-i-zdorov-e-prostaty). Ознакомиться с полной версией можно по [ссылке](https://urozdorovie.local/?topic=gormonal-nye-izmeneniya-u-muzhchin-posle-50-i-zdorov-e-prostaty).*
+*Материал подготовлен на основе публикации [ПростаНьюс](https://prostanews.space/?topic=gormonal-nye-izmeneniya-u-muzhchin-posle-50-i-zdorov-e-prostaty). Ознакомиться с полной версией можно по [ссылке](https://prostanews.space/?topic=gormonal-nye-izmeneniya-u-muzhchin-posle-50-i-zdorov-e-prostaty).*

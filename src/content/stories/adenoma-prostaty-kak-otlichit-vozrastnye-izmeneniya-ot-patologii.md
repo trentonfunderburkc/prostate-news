@@ -5,8 +5,8 @@ authorId: 6
 date: 2026-06-19T00:00:00.000Z
 category: Простатит и аденома
 source_url: >-
-  https://urozdorovie.local/?topic=adenoma-prostaty-kak-otlichit-vozrastnye-izmeneniya-ot-patologii
-source_name: УроЗдоровье
+  https://prostanews.space/?topic=adenoma-prostaty-kak-otlichit-vozrastnye-izmeneniya-ot-patologii
+source_name: ПростаНьюс
 original_author: null
 image: >-
   /images/stories/adenoma-prostaty-kak-otlichit-vozrastnye-izmeneniya-ot-patologii.jpg
@@ -24,7 +24,7 @@ comments:
   - name: Денис Ш.
     text: 'Важно напоминать, что самолечение опасно — статья это подчёркивает.'
     date: '2026-06-10'
-help_link: 'https://urozdorovie.local/'
+help_link: 'https://prostanews.space/'
 ---
 
 Материал не заменяет консультацию врача.
@@ -39,4 +39,4 @@ help_link: 'https://urozdorovie.local/'
 
 ---
 
-*Материал подготовлен на основе публикации [УроЗдоровье](https://urozdorovie.local/?topic=adenoma-prostaty-kak-otlichit-vozrastnye-izmeneniya-ot-patologii). Ознакомиться с полной версией можно по [ссылке](https://urozdorovie.local/?topic=adenoma-prostaty-kak-otlichit-vozrastnye-izmeneniya-ot-patologii).*
+*Материал подготовлен на основе публикации [ПростаНьюс](https://prostanews.space/?topic=adenoma-prostaty-kak-otlichit-vozrastnye-izmeneniya-ot-patologii). Ознакомиться с полной версией можно по [ссылке](https://prostanews.space/?topic=adenoma-prostaty-kak-otlichit-vozrastnye-izmeneniya-ot-patologii).*

@@ -5,8 +5,8 @@ authorId: 4
 date: 2026-06-19T00:00:00.000Z
 category: Простатит и аденома
 source_url: >-
-  https://urozdorovie.local/?topic=chastoe-mocheispuskanie-u-muzhchin-kogda-eto-priznak-problem-s-prostatoy
-source_name: УроЗдоровье
+  https://prostanews.space/?topic=chastoe-mocheispuskanie-u-muzhchin-kogda-eto-priznak-problem-s-prostatoy
+source_name: ПростаНьюс
 original_author: null
 image: >-
   /images/stories/chastoe-mocheispuskanie-u-muzhchin-kogda-eto-priznak-problem-s-prostatoy.jpg
@@ -27,7 +27,7 @@ comments:
   - name: Ирина П.
     text: 'Важно напоминать, что самолечение опасно — статья это подчёркивает.'
     date: '2026-05-28'
-help_link: 'https://urozdorovie.local/'
+help_link: 'https://prostanews.space/'
 ---
 
 Частое мочеиспускание у мужчин — один из самых распространенных поводов для обращения к урологу. В большинстве случаев этот симптом связан с патологиями предстательной железы, однако важно понимать, что он может указывать и на другие состояния. В норме здоровый мужчина посещает туалет 6–8 раз в сутки, при этом ночные позывы не должны превышать одного раза. Если вы замечаете, что потребность в мочеиспускании возникает чаще 8 раз днем или вы просыпаетесь по ночам два и более раз, это повод обратить внимание на свое здоровье. Особенно настораживающим признаком является сочетание учащенного мочеиспускания с болью, жжением, слабой струей или чувством неполного опорожнения мочевого пузыря.
@@ -40,4 +40,4 @@ help_link: 'https://urozdorovie.local/'
 
 ---
 
-*Материал подготовлен на основе публикации [УроЗдоровье](https://urozdorovie.local/?topic=chastoe-mocheispuskanie-u-muzhchin-kogda-eto-priznak-problem-s-prostatoy). Ознакомиться с полной версией можно по [ссылке](https://urozdorovie.local/?topic=chastoe-mocheispuskanie-u-muzhchin-kogda-eto-priznak-problem-s-prostatoy).*
+*Материал подготовлен на основе публикации [ПростаНьюс](https://prostanews.space/?topic=chastoe-mocheispuskanie-u-muzhchin-kogda-eto-priznak-problem-s-prostatoy). Ознакомиться с полной версией можно по [ссылке](https://prostanews.space/?topic=chastoe-mocheispuskanie-u-muzhchin-kogda-eto-priznak-problem-s-prostatoy).*

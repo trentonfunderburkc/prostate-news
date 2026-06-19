@@ -5,8 +5,8 @@ authorId: 10
 date: 2026-06-19T00:00:00.000Z
 category: Простатит и аденома
 source_url: >-
-  https://urozdorovie.local/?topic=hronicheskaya-tazovaya-bol-u-muzhchin-kak-otlichit-ot-prostatita
-source_name: УроЗдоровье
+  https://prostanews.space/?topic=hronicheskaya-tazovaya-bol-u-muzhchin-kak-otlichit-ot-prostatita
+source_name: ПростаНьюс
 original_author: null
 image: >-
   /images/stories/hronicheskaya-tazovaya-bol-u-muzhchin-kak-otlichit-ot-prostatita.jpg
@@ -27,7 +27,7 @@ comments:
   - name: Екатерина Р.
     text: 'Читается легко, без лишнего запугивания.'
     date: '2026-05-28'
-help_link: 'https://urozdorovie.local/'
+help_link: 'https://prostanews.space/'
 ---
 
 Хроническая тазовая боль у мужчин — это состояние, при котором дискомфорт в области таза, промежности, мошонки или нижней части живота сохраняется не менее 3–6 месяцев. Важно понимать, что этот симптомокомплекс не всегда связан с простатитом. Многие мужчины ошибочно считают любую боль в тазу признаком воспаления предстательной железы, но на деле причины могут быть совершенно иными. Ключевое отличие: при хроническом простатите обычно присутствуют нарушения мочеиспускания (учащенные, затрудненные или болезненные позывы, слабая струя) и изменения в анализе секрета предстательной железы, тогда как хроническая тазовая боль часто не сопровождается этими признаками.
@@ -38,4 +38,4 @@ help_link: 'https://urozdorovie.local/'
 
 ---
 
-*Материал подготовлен на основе публикации [УроЗдоровье](https://urozdorovie.local/?topic=hronicheskaya-tazovaya-bol-u-muzhchin-kak-otlichit-ot-prostatita). Ознакомиться с полной версией можно по [ссылке](https://urozdorovie.local/?topic=hronicheskaya-tazovaya-bol-u-muzhchin-kak-otlichit-ot-prostatita).*
+*Материал подготовлен на основе публикации [ПростаНьюс](https://prostanews.space/?topic=hronicheskaya-tazovaya-bol-u-muzhchin-kak-otlichit-ot-prostatita). Ознакомиться с полной версией можно по [ссылке](https://prostanews.space/?topic=hronicheskaya-tazovaya-bol-u-muzhchin-kak-otlichit-ot-prostatita).*

@@ -5,8 +5,8 @@ authorId: 4
 date: 2026-06-19T00:00:00.000Z
 category: Простатит и аденома
 source_url: >-
-  https://urozdorovie.local/?topic=mrt-prostaty-kogda-naznachayut-i-chto-pokazyvaet-issledovanie
-source_name: УроЗдоровье
+  https://prostanews.space/?topic=mrt-prostaty-kogda-naznachayut-i-chto-pokazyvaet-issledovanie
+source_name: ПростаНьюс
 original_author: null
 image: >-
   /images/stories/mrt-prostaty-kogda-naznachayut-i-chto-pokazyvaet-issledovanie.jpg
@@ -24,7 +24,7 @@ comments:
   - name: Татьяна Л.
     text: 'Полезная статья, сохранил, покажу урологу на приёме.'
     date: '2026-06-09'
-help_link: 'https://urozdorovie.local/'
+help_link: 'https://prostanews.space/'
 ---
 
 Магнитно-резонансная томография (МРТ) простаты является одним из наиболее точных неинвазивных методов визуализации предстательной железы. Это исследование назначается в первую очередь для уточнения диагноза при подозрении на рак простаты, а также для оценки распространенности уже выявленного онкологического процесса. Кроме того, МРТ простаты используется при диагностике острого и хронического простатита, абсцессов железы, а также при выявлении аномалий развития и послеоперационных изменений. Важно понимать, что МРТ не является скрининговым методом и обычно проводится после других обследований, например, после ПСА-теста и пальцевого ректального исследования.
@@ -35,4 +35,4 @@ help_link: 'https://urozdorovie.local/'
 
 ---
 
-*Материал подготовлен на основе публикации [УроЗдоровье](https://urozdorovie.local/?topic=mrt-prostaty-kogda-naznachayut-i-chto-pokazyvaet-issledovanie). Ознакомиться с полной версией можно по [ссылке](https://urozdorovie.local/?topic=mrt-prostaty-kogda-naznachayut-i-chto-pokazyvaet-issledovanie).*
+*Материал подготовлен на основе публикации [ПростаНьюс](https://prostanews.space/?topic=mrt-prostaty-kogda-naznachayut-i-chto-pokazyvaet-issledovanie). Ознакомиться с полной версией можно по [ссылке](https://prostanews.space/?topic=mrt-prostaty-kogda-naznachayut-i-chto-pokazyvaet-issledovanie).*

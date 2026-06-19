@@ -5,8 +5,8 @@ authorId: 5
 date: 2026-06-19T00:00:00.000Z
 category: Простатит и аденома
 source_url: >-
-  https://urozdorovie.local/?topic=nederzhanie-mochi-posle-operatsii-na-prostate-chto-schitaetsya-normoy
-source_name: УроЗдоровье
+  https://prostanews.space/?topic=nederzhanie-mochi-posle-operatsii-na-prostate-chto-schitaetsya-normoy
+source_name: ПростаНьюс
 original_author: null
 image: >-
   /images/stories/nederzhanie-mochi-posle-operatsii-na-prostate-chto-schitaetsya-normoy.jpg
@@ -21,7 +21,7 @@ comments:
   - name: Екатерина Р.
     text: 'Полезная статья, сохранил, покажу урологу на приёме.'
     date: '2026-05-24'
-help_link: 'https://urozdorovie.local/'
+help_link: 'https://prostanews.space/'
 ---
 
 Недержание мочи после хирургического вмешательства на предстательной железе — это довольно частое, но временное состояние, с которым сталкиваются многие мужчины. Чаще всего речь идет о радикальной простатэктомии, которая проводится при раке простаты, или трансуретральной резекции (ТУР) при аденоме. Важно понимать, что незначительное подтекание мочи в первые недели после операции считается вариантом нормы. Статистика показывает, что около 80–90% пациентов с легкой степенью недержания полностью восстанавливают контроль над мочеиспусканием в течение 6–12 месяцев. Нормой можно считать потерю нескольких капель при кашле, смехе или резком вставании, особенно в первые 3–6 недель.
@@ -34,4 +34,4 @@ help_link: 'https://urozdorovie.local/'
 
 ---
 
-*Материал подготовлен на основе публикации [УроЗдоровье](https://urozdorovie.local/?topic=nederzhanie-mochi-posle-operatsii-na-prostate-chto-schitaetsya-normoy). Ознакомиться с полной версией можно по [ссылке](https://urozdorovie.local/?topic=nederzhanie-mochi-posle-operatsii-na-prostate-chto-schitaetsya-normoy).*
+*Материал подготовлен на основе публикации [ПростаНьюс](https://prostanews.space/?topic=nederzhanie-mochi-posle-operatsii-na-prostate-chto-schitaetsya-normoy). Ознакомиться с полной версией можно по [ссылке](https://prostanews.space/?topic=nederzhanie-mochi-posle-operatsii-na-prostate-chto-schitaetsya-normoy).*

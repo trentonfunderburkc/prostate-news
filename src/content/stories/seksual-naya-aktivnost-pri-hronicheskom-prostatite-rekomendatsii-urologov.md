@@ -5,8 +5,8 @@ authorId: 6
 date: 2026-06-19T00:00:00.000Z
 category: Простатит и аденома
 source_url: >-
-  https://urozdorovie.local/?topic=seksual-naya-aktivnost-pri-hronicheskom-prostatite-rekomendatsii-urologov
-source_name: УроЗдоровье
+  https://prostanews.space/?topic=seksual-naya-aktivnost-pri-hronicheskom-prostatite-rekomendatsii-urologov
+source_name: ПростаНьюс
 original_author: null
 image: >-
   /images/stories/seksual-naya-aktivnost-pri-hronicheskom-prostatite-rekomendatsii-urologov.jpg
@@ -24,7 +24,7 @@ comments:
   - name: Роман Ж.
     text: Спасибо за понятное объяснение — как раз искал информацию по этой теме.
     date: '2026-05-26'
-help_link: 'https://urozdorovie.local/'
+help_link: 'https://prostanews.space/'
 ---
 
 Сексуальная активность при хроническом простатите — вопрос, который волнует многих мужчин, поскольку заболевание напрямую влияет на качество интимной жизни. Хронический простатит характеризуется воспалением предстательной железы, длящимся более трех месяцев, и часто сопровождается болями в промежности, нарушениями мочеиспускания и эректильной дисфункцией. Согласно статистике, до 90% мужчин с этим диагнозом отмечают снижение либидо, а каждый второй сталкивается с преждевременной эякуляцией или болями во время семяизвержения. Эти симптомы не только ухудшают самочувствие, но и создают психологический барьер, заставляя многих пациентов избегать близости. Важно понимать: при хроническом простатите сексуальная жизнь обычно не противопоказана, но требует грамотного подхода и врачебного контроля.
@@ -35,4 +35,4 @@ help_link: 'https://urozdorovie.local/'
 
 ---
 
-*Материал подготовлен на основе публикации [УроЗдоровье](https://urozdorovie.local/?topic=seksual-naya-aktivnost-pri-hronicheskom-prostatite-rekomendatsii-urologov). Ознакомиться с полной версией можно по [ссылке](https://urozdorovie.local/?topic=seksual-naya-aktivnost-pri-hronicheskom-prostatite-rekomendatsii-urologov).*
+*Материал подготовлен на основе публикации [ПростаНьюс](https://prostanews.space/?topic=seksual-naya-aktivnost-pri-hronicheskom-prostatite-rekomendatsii-urologov). Ознакомиться с полной версией можно по [ссылке](https://prostanews.space/?topic=seksual-naya-aktivnost-pri-hronicheskom-prostatite-rekomendatsii-urologov).*

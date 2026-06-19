@@ -5,8 +5,8 @@ authorId: 7
 date: 2026-06-19T00:00:00.000Z
 category: Простатит и аденома
 source_url: >-
-  https://urozdorovie.local/?topic=tur-prostaty-pokazaniya-etapy-vosstanovleniya-i-ogranicheniya
-source_name: УроЗдоровье
+  https://prostanews.space/?topic=tur-prostaty-pokazaniya-etapy-vosstanovleniya-i-ogranicheniya
+source_name: ПростаНьюс
 original_author: null
 image: >-
   /images/stories/tur-prostaty-pokazaniya-etapy-vosstanovleniya-i-ogranicheniya.jpg
@@ -24,7 +24,7 @@ comments:
   - name: Алина К.
     text: Полезный материал для мужчин после 40.
     date: '2026-06-10'
-help_link: 'https://urozdorovie.local/'
+help_link: 'https://prostanews.space/'
 ---
 
 Тур простаты, или трансуретральная резекция предстательной железы, — это малоинвазивная хирургическая операция, которая проводится для удаления избыточной ткани простаты, сдавливающей мочеиспускательный канал. Основное показание к такой процедуре — доброкачественная гиперплазия предстательной железы (аденома простаты), когда медикаментозное лечение перестает быть эффективным. Ключевые симптомы, указывающие на необходимость визита к урологу, включают затрудненное или слабое мочеиспускание, частые позывы в ночное время, ощущение неполного опорожнения мочевого пузыря и болезненность при мочеиспускании. Диагностика перед туром обычно включает анализ крови на ПСА, УЗИ простаты, уродинамическое исследование и общий анализ мочи для исключения инфекции. Операция выполняется через уретру без разрезов на коже, что сокращает сроки госпитализации до 1-3 дней.
@@ -35,4 +35,4 @@ help_link: 'https://urozdorovie.local/'
 
 ---
 
-*Материал подготовлен на основе публикации [УроЗдоровье](https://urozdorovie.local/?topic=tur-prostaty-pokazaniya-etapy-vosstanovleniya-i-ogranicheniya). Ознакомиться с полной версией можно по [ссылке](https://urozdorovie.local/?topic=tur-prostaty-pokazaniya-etapy-vosstanovleniya-i-ogranicheniya).*
+*Материал подготовлен на основе публикации [ПростаНьюс](https://prostanews.space/?topic=tur-prostaty-pokazaniya-etapy-vosstanovleniya-i-ogranicheniya). Ознакомиться с полной версией можно по [ссылке](https://prostanews.space/?topic=tur-prostaty-pokazaniya-etapy-vosstanovleniya-i-ogranicheniya).*

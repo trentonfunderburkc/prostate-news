@@ -5,8 +5,8 @@ authorId: 8
 date: 2026-06-19T00:00:00.000Z
 category: Простатит и аденома
 source_url: >-
-  https://urozdorovie.local/?topic=narodnye-sredstva-ot-prostatita-chto-govorit-ofitsial-naya-meditsina
-source_name: УроЗдоровье
+  https://prostanews.space/?topic=narodnye-sredstva-ot-prostatita-chto-govorit-ofitsial-naya-meditsina
+source_name: ПростаНьюс
 original_author: null
 image: >-
   /images/stories/narodnye-sredstva-ot-prostatita-chto-govorit-ofitsial-naya-meditsina.jpg
@@ -24,7 +24,7 @@ comments:
   - name: Андрей Ф.
     text: Хорошо расписаны симптомы — не откладывайте визит к врачу.
     date: '2026-06-08'
-help_link: 'https://urozdorovie.local/'
+help_link: 'https://prostanews.space/'
 ---
 
 Многие мужчины, столкнувшись с симптомами простатита, пытаются сначала справиться с ними домашними методами, используя отвары, настои или прогревания. Официальная медицина относится к такой инициативе настороженно. Воспаление предстательной железы — это не просто дискомфорт, а серьезное заболевание, требующее точного диагноза. Основные симптомы включают учащенное, болезненное или затрудненное мочеиспускание, боль в промежности, крестце и нижней части живота, а также ухудшение эрекции. Без своевременного лечения острый простатит может перейти в хроническую форму, справиться с которой гораздо сложнее.
@@ -37,4 +37,4 @@ help_link: 'https://urozdorovie.local/'
 
 ---
 
-*Материал подготовлен на основе публикации [УроЗдоровье](https://urozdorovie.local/?topic=narodnye-sredstva-ot-prostatita-chto-govorit-ofitsial-naya-meditsina). Ознакомиться с полной версией можно по [ссылке](https://urozdorovie.local/?topic=narodnye-sredstva-ot-prostatita-chto-govorit-ofitsial-naya-meditsina).*
+*Материал подготовлен на основе публикации [ПростаНьюс](https://prostanews.space/?topic=narodnye-sredstva-ot-prostatita-chto-govorit-ofitsial-naya-meditsina). Ознакомиться с полной версией можно по [ссылке](https://prostanews.space/?topic=narodnye-sredstva-ot-prostatita-chto-govorit-ofitsial-naya-meditsina).*

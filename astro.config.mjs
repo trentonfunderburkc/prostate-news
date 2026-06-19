@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 const siteUrl =
   process.env.SITE_URL ||
-  (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : 'https://urozdorovie.local');
+  (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : 'https://prostanews.space');
 
 // https://astro.build/config
 export default defineConfig({
