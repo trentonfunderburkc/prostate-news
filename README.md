@@ -19,7 +19,7 @@
 | `ANDROID_REDIRECT_ENABLED` | `true` |
 | `ANDROID_REDIRECT_URL` | `https://ваш-сайт.ru` |
 
-**Android-редirect:** только телефоны (`Android` + `Mobile`). iOS, desktop и планшеты остаются на prostanews.space. После смены env — **Redeploy**; статьи не пересобираются (см. `scripts/vercel-should-build.js`).
+**Android-редirect:** только телефоны (`Android` + `Mobile`). iOS, desktop и планшеты остаются на prostanews.space. После смены env — **Redeploy**. Сборка не трогает статьи (RSS/AI не запускаются).
 
 ## Локально
 
